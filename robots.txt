@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.lianruyu.cn/sitemap.xml
